@@ -1,0 +1,46 @@
+* {
+  font-family: verdana;
+}
+
+head {
+  position: absolute;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding: 50px;
+  mix-blend-mode: difference;
+}
+
+#quoteDisplay {
+  text-align:center;
+  padding: 50px;
+  mix-blend-mode: difference;
+  color: white;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  position:absolute;
+  background-image: url('https://images.pexels.com/photos/990826/pexels-photo-990826.jpeg?cs=srgb&dl=abstract-art-artistic-990826.jpg&fm=jpg');
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size:cover;
+  color: black;
+  text-align: center;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin: 0px;
+}
+
+#date {
+  mix-blend-mode: difference;
+  color: white;
+  padding:50px;
+}
