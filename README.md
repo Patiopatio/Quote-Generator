@@ -1,8 +1,8 @@
-# Quote Generator 
 ![inspiration](img/px.png)
+# Quote Generator 
 
 Let's get inspired!
 
 ## Setup
 
-run index.html in the browser or push to derver (node.js).
+Run index.html in the browser or push to server (e.g. node.js).
